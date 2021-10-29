@@ -1,0 +1,182 @@
+h1{
+    font-size: 5vw;
+    color:#277463;
+}
+hr{
+  border-style: none;
+  border-color: darkblue;
+  border-top-style: dotted;
+  border-width: 1vw;
+  width: 20%;
+  
+  }
+.pic{
+    height: 100%;
+    width: auto;
+    position:absolute;
+    top: 0%;
+}
+.im{
+    color: white;
+}
+.designer{
+    height: 20%;
+    width: 100%;
+  position: absolute;
+    right:13%;
+    top: 30px;
+    font-style: italic;
+    color: white;
+    font-size: 3vw;
+}
+.backgroundimg{
+    height: auto;
+    max-width: 100%;
+}
+#top-container{
+    height: 55vw;
+    width: 100%;
+    position: relative;
+    top: 0%;
+    background-color: teal;
+}
+.blackpic{
+    height:55vw ;
+    width: 100%;
+}
+.pic1{
+    height:15vw;
+    width: auto;
+    position:absolute;
+    top: 6%;
+    left: 15%;
+}
+.hello{
+    position: absolute;
+    right:40.98vw;
+    top:12vw;
+    color:#277463  ;
+    text-align: center;
+    font-size: 5vw;
+    font-style: italic;
+    font-family: 'Sacramento', cursive,monospace;
+    font-weight: 800;
+}
+.intro{
+    height: 10vw;
+    width: 50vw;
+  font-size: 3vw;
+  position:absolute;
+  top:6%;
+  right: 10%;
+  font-family: 'Merriweather', serif,monospace;
+}
+.skills{
+    height: 185vw;
+    width: 100%;
+    text-align: center;
+    position: absolute ;
+    top: 19%;
+}
+.skill{
+    height: 20vw;
+    width: 30vw;
+    font-size: 2vw;
+    position: absolute;
+    left: 30%;
+}
+.skill-row{
+    width: 90%;
+    margin: 30vw auto 30vw auto ;
+    line-height: 2;
+    position: relative;
+    text-align: left;
+    color:black ;
+    font-size: 2vw;
+}
+.persontyping{
+    width: 25%;
+    float: left;
+    margin-right: 10vw;
+    margin-top: 1vw;
+}
+.persontyping1{
+    width: 30%;
+    float: right;
+    margin-right: 10vw;
+    margin-top: 2vw;
+}
+.persontyping2{
+    width: 25%;
+    float: left;
+    margin-right: 10vw;
+    margin-top: 1vw;
+}
+.help{
+font-size: 4vw;
+}
+#contact-me{
+    width: 90%;
+    margin: 30vw auto 10vw auto ;
+    line-height: 2;
+    position: absolute;
+    text-align: center;
+    color:black ;
+    font-size: 2vw;
+    top: 300vw;
+    font-family: 'Merriweather', serif,monospace;
+    right: 5vw;
+}
+.freelance{
+    font-size: 3vw;
+    height: 5vw;
+    width: 100%;
+    position: relative;
+    font-family: 'Sacramento', cursive,monospace;
+    font-weight: 600;
+}
+.con{
+    position: relative;
+    height: 5vw;
+    width: 80%;
+    left: 10vw;
+    margin-bottom: 7vw;
+    font-family: 'Merriweather', serif,monospace;
+}
+.facebook{
+    height: 3vw;
+    width: auto;
+}
+.instagram{
+    height: 3vw;
+    width: auto;
+}
+.phone{
+    height: 3vw;
+    width: auto;
+}
+.mail{
+    height: 3vw;
+    width: auto;
+}
+#middle-container{
+    height: 390vw;
+    width: 100%;
+    position: relative;
+   
+}
+.whats{
+    font-size: 1.5vw;
+    position: relative;
+    margin-top: 2.5vw;
+    
+}
+.bottom-container{
+position: relative;
+height: 5vw;
+background-color: blue;
+color: cornsilk;
+text-align: center;
+font-size: 2vw;
+margin: auto auto auto auto;
+}
